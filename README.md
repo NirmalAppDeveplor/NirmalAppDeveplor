@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NirmalAppDeveplor
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning New thimgs about coding 
+- 🌱 I’m currently learning New things about coding 
 - 📫 How to reach me nirmalkumarneelamegan@outlook.com
 
 <!---
